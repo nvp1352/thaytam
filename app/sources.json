@@ -1,0 +1,26 @@
+[
+  {
+    "title": "FPT Corporation — Trang chủ",
+    "url": "https://fpt.com/vi",
+    "use": "Tham khảo cách phân nhóm hệ sinh thái công nghệ và giới thiệu giải pháp chuyển đổi số.",
+    "applied": "Trang chủ: phần giới thiệu và nhóm giải pháp. Nội dung demo được viết lại."
+  },
+  {
+    "title": "FPT IS — Sản phẩm, giải pháp và dịch vụ",
+    "url": "https://fpt-is.com/",
+    "use": "Tham khảo danh mục văn phòng số, quản trị nhân sự, hạ tầng số, trung tâm dữ liệu và Managed Services.",
+    "applied": "Cấu trúc danh mục sản phẩm/dịch vụ và trang chi tiết. Không khẳng định các sản phẩm của FPT thuộc MASAN."
+  },
+  {
+    "title": "Masan Group — Website chính thức",
+    "url": "https://www.masangroup.com/",
+    "use": "Đối chiếu danh tính doanh nghiệp: website giới thiệu các hoạt động liên quan đến tiêu dùng, bán lẻ, tài chính và vật liệu.",
+    "applied": "Phân biệt Masan thật với doanh nghiệp công nghệ giả định trong đề bài; không dùng làm nguồn cho các tên MASAN eContract hoặc OncallCX."
+  },
+  {
+    "title": "PHP Manual — PDO prepared statements",
+    "url": "https://www.php.net/manual/en/pdo.prepared-statements.php",
+    "use": "Tham khảo cơ chế truy vấn SQL có tham số của PDO.",
+    "applied": "Hàm query() dùng prepare() và execute() cho dữ liệu đầu vào."
+  }
+]
